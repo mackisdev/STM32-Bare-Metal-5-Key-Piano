@@ -34,7 +34,7 @@ to 0 instantly. Then, it'd be the same logic vice versa for the opposite state c
 
 ## Authors
 
-ex. Mackenzy Daniel
+Mackenzy Daniel
 
 ## Version History
 
